@@ -1,0 +1,29 @@
+body {
+    font-size: 15pt;
+    background-color: darkblue
+}
+.image{
+  width: 200px;
+  position: relative;
+  left: 60px
+}
+#hil{
+  width: 100%;
+  border: 10px solid red;
+  border-radius: 50%
+}
+h1,h4,p{
+  text-align: center;
+  color: yellow;
+}
+.work,ul{
+  display: grid;
+  place-items: center;
+}
+a{
+  text-decoration: none;
+  color: red
+}
+ul{
+  color: red;
+}
