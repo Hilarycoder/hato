@@ -27,3 +27,8 @@ a{
 ul{
   color: red;
 }
+.enter{
+  display: grid;
+  place-items: center;
+  align-items: center;
+}
